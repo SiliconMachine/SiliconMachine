@@ -47,9 +47,11 @@ As the current CTO and Founder of [**Codeverze**](https://www.codeverze.com/), I
 
 ### DevOps Development
 
-![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![GNOME Terminal](https://img.shields.io/static/v1?style=for-the-badge&message=GNOME+Terminal&color=241F31&logo=GNOME+Terminal&logoColor=FFFFFF&label=)
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+![Cloudflare](https://img.shields.io/static/v1?style=for-the-badge&message=Cloudflare&color=F38020&logo=Cloudflare&logoColor=FFFFFF&label=)
+![Cloudflare Pages](https://img.shields.io/static/v1?style=for-the-badge&message=Cloudflare+Pages&color=F38020&logo=Cloudflare+Pages&logoColor=FFFFFF&label=)
 ![Hetzner](https://img.shields.io/static/v1?style=for-the-badge&message=Hetzner&color=D50C2D&logo=Hetzner&logoColor=FFFFFF&label=)
 ![NGINX](https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=009639&logo=NGINX&logoColor=FFFFFF&label=)
 ![Apache](https://img.shields.io/static/v1?style=for-the-badge&message=Apache&color=D22128&logo=Apache&logoColor=FFFFFF&label=)
