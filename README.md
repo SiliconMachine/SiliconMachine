@@ -4,7 +4,7 @@
 
 🎓 I am Alan Mac Cormack, an entrepeneur and **Full Stack Web Developer** (specializing in **Laravel / Vue Applications**).
 
-👨‍💻 As a Full-Stack Developer with 5+ years of experience, I am passionate about creating software that drives change in my community.
+👨‍💻 As a Full-Stack Developer with 8+ years of experience, I am passionate about creating software that drives change in my community.
 With my past work experiences, I have developed strong problem-solving and backend/frontend skills that allow me to become an effective technical leader and gain expertise in a range of industries.
 
 📚 My interest in technology stems from a young age and inspires my constantly-evolving innovative and entrepreneurial efforts.
